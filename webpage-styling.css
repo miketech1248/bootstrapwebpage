@@ -1,0 +1,25 @@
+.jumbotron {
+    display: block;
+    text-align: center;
+}
+
+div.carousel-caption.d-none.d-md-block {
+    color: blue;
+    font-weight: 600;
+    font-size: large;
+}
+
+.sectionLight {
+    background-color: #eceeef;
+    padding: 2rem;
+}
+
+.col-md-6.col-lg-6.col-sm-12.footerImage {
+    position: relative;
+    text-align: center;
+}
+
+div.sectionDark {
+    background-color: rgb(119, 119, 119);
+}
+
