@@ -1,0 +1,7 @@
+Embeded Iframe Videos URL's:
+#1:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/HhoPRDq6Wow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#2:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8I1KQx1zZlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+#3:
+<iframe width="560" height="315" src="https://www.youtube.com/embed/X3Sbv5X3DwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>

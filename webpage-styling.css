@@ -48,3 +48,29 @@ h5.modal-title {
     padding: 2rem;
 }
 
+.imgCenter {
+    display: block;
+    margin: auto;
+}
+
+.btnCenter {
+    display: block;
+    margin: auto;
+    margin-top: 15px;
+    margin-bottom: 20px;
+    width: 50%;
+}
+
+.infowars-img, .ar-15-img {
+    display: block;
+    margin: auto;
+}
+
+.freedomVideo, 
+.justiceVideo, 
+.libertyVideo {
+    display: block;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+}
