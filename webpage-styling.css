@@ -14,12 +14,37 @@ div.carousel-caption.d-none.d-md-block {
     padding: 2rem;
 }
 
-.col-md-6.col-lg-6.col-sm-12.footerImage {
-    position: relative;
-    text-align: center;
+.sectionDark {
+    background-color: #555454;
+    padding: 2rem;
+    color: black;
 }
 
-div.sectionDark {
-    background-color: rgb(119, 119, 119);
+.dropdown-menu.show {
+    background-color: rgb(114, 112, 112);
+}
+
+.coolStuffWrapper {
+    margin-top: 20px;
+}
+
+button.coolStuffBtn {
+    background-color: red;
+    color: whitesmoke;
+    display: block;
+    margin: auto;
+}
+
+p.secondp {
+    padding-left: 15px;
+}
+
+h5.modal-title {
+    display: block;
+    margin: auto;
+}
+
+.modalFormWrapper {
+    padding: 2rem;
 }
 
