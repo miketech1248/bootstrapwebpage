@@ -1,7 +1,7 @@
 Embeded Iframe Videos URL's:
 #1:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/HhoPRDq6Wow" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/embed/t94YWuASc9JA/"></iframe>
 #2:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/8I1KQx1zZlM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/embed/L7tt8yFd7kzJ/"></iframe>
 #3:
-<iframe width="560" height="315" src="https://www.youtube.com/embed/X3Sbv5X3DwM" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<iframe width="640" height="360" scrolling="no" frameborder="0" style="border: none;" src="https://www.bitchute.com/embed/VIEb8iXWQcb4/"></iframe>

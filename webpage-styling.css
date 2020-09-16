@@ -1,6 +1,7 @@
 .jumbotron {
     display: block;
     text-align: center;
+    padding-bottom: 0;
 }
 
 div.carousel-caption.d-none.d-md-block {
@@ -12,16 +13,19 @@ div.carousel-caption.d-none.d-md-block {
 .sectionLight {
     background-color: #eceeef;
     padding: 2rem;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
 }
 
 .sectionDark {
     background-color: #555454;
     padding: 2rem;
     color: black;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
 }
 
 .dropdown-menu.show {
     background-color: rgb(114, 112, 112);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
 }
 
 .coolStuffWrapper {
@@ -51,6 +55,10 @@ h5.modal-title {
 .imgCenter {
     display: block;
     margin: auto;
+    border-style: outset;
+    border-width: 4px;
+    border-radius: 6px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
 }
 
 .btnCenter {
@@ -58,7 +66,7 @@ h5.modal-title {
     margin: auto;
     margin-top: 15px;
     margin-bottom: 20px;
-    width: 50%;
+    width: 310px;
 }
 
 .infowars-img {
@@ -94,4 +102,17 @@ div.infowars-img > img.infowars-img {
 
 div.container-fluid {
     padding: 0;
+}
+
+#mainCarousel {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+}
+
+.opening {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
+    border-radius: 6px;
+}
+
+.carouselImg {
+    padding-top: 55px;
 }
