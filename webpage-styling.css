@@ -37,6 +37,7 @@ button.coolStuffBtn {
     color: whitesmoke;
     display: block;
     margin: auto;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
 }
 
 p.secondp {
@@ -67,6 +68,7 @@ h5.modal-title {
     margin-top: 15px;
     margin-bottom: 20px;
     width: 310px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
 }
 
 .infowars-img {
@@ -102,6 +104,7 @@ div.infowars-img > img.infowars-img {
 
 div.container-fluid {
     padding: 0;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.5);
 }
 
 #mainCarousel {
@@ -116,3 +119,37 @@ div.container-fluid {
 .carouselImg {
     padding-top: 55px;
 }
+
+.footerImg {
+    padding: 15px;
+}
+
+.fa {
+    margin: 10px;
+
+}
+
+.fa-facebook-official {
+    color: #3b5998;
+    font-size: 60px;
+}
+
+div > div > img.footerImg {
+    display: block;
+    margin: auto;
+}
+
+i.fa-google-plus-square {
+    color: #ea4335;
+    font-size: 60px;
+}
+
+.fa-instagram {
+    font-size: 60px;
+    color: #ffffff;
+}
+
+.socialWrapper {
+    margin: auto;
+}
+
